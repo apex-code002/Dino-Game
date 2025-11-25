@@ -1,3 +1,4 @@
+
 # Dino-Game
 
 About the Project: Dino Game in Python
@@ -74,3 +75,4 @@ You can make this project even better by adding:
 🏆 Leaderboard system
 
 📱 Mobile control support (touch)
+
