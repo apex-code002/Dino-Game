@@ -1,30 +1,15 @@
 
 # Dino-Game
 
-About the Project: Dino Game in Python
- Project Overview
+About the Project: Dino Game in Python Project Overview
 
-This is a Chrome-style Dinosaur Game clone built entirely in Python using the Pygame library.
-It’s a fun and educational project that demonstrates game development fundamentals, including animation, physics, collision detection, scoring, and user input handling — all without external assets.
+This is a Chrome-style Dinosaur Game clone built entirely in Python using the Pygame library. It’s a fun and educational project that demonstrates game development fundamentals, including animation, physics, collision detection, scoring, and user input handling — all without external assets.
 
 🌟 Key Features
 
-✅ Smooth-running dinosaur with jump and duck controls
-✅ Randomly generated obstacles (cactus & flying bird)
-✅ Increasing difficulty as score increases
-✅ Realistic gravity and jumping physics
-✅ High-score saving system (highscore.txt)
-✅ Simple yet clean art style (no external images required)
-✅ Restart and main menu screen
-✅ Optimized for smooth performance on any system
+✅ Smooth-running dinosaur with jump and duck controls ✅ Randomly generated obstacles (cactus & flying bird) ✅ Increasing difficulty as score increases ✅ Realistic gravity and jumping physics ✅ High-score saving system (highscore.txt) ✅ Simple yet clean art style (no external images required) ✅ Restart and main menu screen ✅ Optimized for smooth performance on any system
 
-🕹️ Controls
-Key	Action
-Space / Up / W	Jump
-Down / S	Duck
-R	Restart after Game Over
-Esc	Quit Game
-⚙️ Technical Details
+🕹️ Controls Key Action Space / Up / W Jump Down / S Duck R Restart after Game Over Esc Quit Game ⚙️ Technical Details
 
 Language: Python
 
