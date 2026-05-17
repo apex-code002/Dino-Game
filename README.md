@@ -53,11 +53,11 @@ You can make this project even better by adding:
 
  Background scrolling (desert effect)
 
-🌤️ Day-night cycle or color themes
+ Day-night cycle or color themes
 
-🎵 Background music and jump sound effects
+ Background music and jump sound effects
 
-🏆 Leaderboard system
+ Leaderboard system
 
-📱 Mobile control support (touch)
+ Mobile control support (touch)
 
