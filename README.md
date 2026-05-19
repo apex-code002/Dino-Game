@@ -9,7 +9,7 @@ This is a Chrome-style Dinosaur Game clone built entirely in Python using the Py
 
  Smooth-running dinosaur with jump and duck controls  Randomly generated obstacles (cactus & flying bird)  Increasing difficulty as score increases  Realistic gravity and jumping physics  High-score saving system (highscore.txt)  Simple yet clean art style (no external images required)  Restart and main menu screen  Optimized for smooth performance on any system
 
- Controls Key Action Space / Up / W Jump Down / S Duck R Restart after Game Over Esc Quit Game ⚙️ Technical Details
+ Controls Key Action Space / Up / W Jump Down / S Duck R Restart after Game Over Esc Quit Game  Technical Details
 
 Language: Python
 
