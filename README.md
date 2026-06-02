@@ -1,4 +1,4 @@
-
+**
 # Dino-Game
 
 About the Project: Dino Game in Python Project Overview
@@ -61,3 +61,4 @@ You can make this project even better by adding:
 
  Mobile control support (touch)
 
+**
