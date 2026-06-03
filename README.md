@@ -1,4 +1,4 @@
-**
+\**
 # Dino-Game
 
 About the Project: Dino Game in Python Project Overview
