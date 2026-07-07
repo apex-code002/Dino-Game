@@ -1,4 +1,3 @@
-
 \**
 
 # Dino-Game
@@ -64,6 +63,8 @@ You can make this project even better by adding:
  Mobile control support (touch)
 
 **
+
+
 
 
 
