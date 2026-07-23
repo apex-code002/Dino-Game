@@ -5,7 +5,7 @@ WIDTH, HEIGHT = 900, 300
 GROUND_Y = HEIGHT - 40
 FPS = 60
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("🦖 Dino Runner Pro Edition")
+pygame.display.set_caption(" Dino Runner Pro Edition")
 clock = pygame.time.Clock()
 font = pygame.font.SysFont("consolas", 20)
 big_font = pygame.font.SysFont("consolas", 44)
@@ -212,7 +212,7 @@ def game_loop():
 def main_menu():
     while True:
         screen.fill((240, 240, 240))
-        title = big_font.render("🦖 DINO RUNNER PRO EDITION", True, (40, 40, 40))
+        title = big_font.render("DINO RUNNER PRO EDITION", True, (40, 40, 40))
         sub = font.render("Press SPACE to Start | Jump: SPACE/UP | Quit: ESC", True, (60, 60, 60))
         screen.blit(title, ((WIDTH - title.get_width()) // 2, HEIGHT // 2 - 60))
         screen.blit(sub, ((WIDTH - sub.get_width()) // 2, HEIGHT // 2 + 10))
